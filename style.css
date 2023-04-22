@@ -295,7 +295,7 @@ hr {
 }
 
 .pastimg {
-  width: 300px;
+  width: 90%;
   height: 170px;
   margin-bottom: 8px;
 }
@@ -339,15 +339,19 @@ hr {
 
 .footer {
   display: flex;
+  justify-content: space-between;
   padding-top: 12px;
+  gap: 15px;
   padding-bottom: 1em;
   font-size: 15px;
+  max-width: 100%;
 }
 
 .footer-logo {
   width: 120px;
   height: 40px;
-  margin: auto 0 auto 280px;
+  max-width: 100%;
+  margin: auto;
 }
 
 .headline-image {
@@ -381,9 +385,8 @@ hr {
 
 .pastevent-image {
   display: block;
-  margin-top: 1em;
-  max-width: 100%;
   text-align: center;
+  margin: auto;
 }
 
 @media (max-width: 768px) {
@@ -443,7 +446,7 @@ hr {
   .navlogo {
     width: 130px;
     height: 45px;
-    margin-left: 180px;
+    margin-left: 100px;
     max-width: 100%;
   }
 
