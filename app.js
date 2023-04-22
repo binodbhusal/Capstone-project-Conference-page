@@ -12,41 +12,41 @@ closeBtn.addEventListener('click', () => {
 
 const featureSpeaker = [
   {
-    profileimage: 'images/binodprofile.png',
+    profileimage: 'images/binodprofile1.png',
     name: 'Binod Bhusal',
-    description1: 'World-renowned keynote speaker, futures strategist, lecturer, best-selling author',
-    description2: 'Using a dynamic mix of human psychology, quantum science, business strategy and futurism, John creates talks, writes books, delivers masterclasses and sits on boards to help guide future-forward leaders who are ready to lean into uncertainty, overcome doubt, and rise with courage, clarity and power',
+    description1: 'World-renowned keynote speaker',
+    description2: 'Using a dynamic mix of human psychology, quantum science, business strategy and futurism, John creates talks, writes books, delivers masterclasses',
   },
   {
-    profileimage: 'images/cristina-feature2.jpeg',
+    profileimage: 'images/cris.png',
     name: 'Cristina Silver',
-    description1: 'Web3 expert and founder of Blackwood, a consultancy firm that helps traditional businesses adopt blockchain, NFTs, and cryptocurrencies.',
-    description2: 'She is an experienced web3 expert and communications professional. As the founder of Blackwood, she helps traditional businesses adopt blockchain, NFTs, and cryptocurrencies. With a focus on digital fine art, she provides detailed case studies of successful and unsuccessful NFT and metaverse projects.',
+    description1: 'Web3 expert and founder of Blackwood',
+    description2: 'She is an experienced web3 expert and communications professional. As the founder of Blackwood, she helps traditional businesses adopt blockchain, NFTs, and cryptocurrencies.',
   },
   {
-    profileimage: 'images/andrewgill.png',
+    profileimage: 'images/andrew.png',
     name: 'Andrew Gill',
-    description1: 'Andrew Grill is a former IBM Global Managing Partner, futurist speaker, and technology trends expert with over 30 years of experience in leading technology companies.',
-    description2: 'Well-respected futurist speaker, technology trends expert, and author. He has over 30 years of experience leading technology companies, including as a former IBM Global Managing Partner. Andrew is known for his practical and actionable insights on digital transformation and AI, which can help organizations achieve their goals and stay ahead of the curve.',
+    description1: 'Andrew Grill is a former IBM Global Managing Partner',
+    description2: 'Well-respected futurist speaker, technology trends expert, and author. He has over 30 years of experience leading technology companies, including as a former IBM Global Managing Partner.',
   },
   {
     profileimage: 'images/amanda.png',
     name: 'Amanda Johnstone',
-    description1: 'Her inspiring approach to the intersection of emotion, empathy, vulnerability and technology make her an exceptional leader and a captivating evangelist for the positive change toward mental wellbeing for all.',
-    description2: 'There is no other woman on the planet like Amanda Johnstone. She invents technologies to improve the human condition. TIME awarded her as a Next Generation Leader. The CEO Magazine honored her as the Startup Executive of the Year. WIRED named her one of the Top 200 Influencers on Social Audio and she has been recognised by GSMA and Singularity University',
+    description1: ' An exceptional leader and a captivating evangelist',
+    description2: 'There is no other woman on the planet like Amanda Johnstone. She invents technologies to improve the human condition. TIME awarded her as a Next Generation Leader.',
   },
   {
     profileimage: 'images/gerrie.png',
     name: 'Gerrie Smits',
-    description1: 'Gerrie is a seasoned professional with 25 years of experience in industries disrupted by the internet.',
-    description2: 'Gerrie is a versatile professional with a background in music, television, and civil service. He has over 25 years of experience in industries that have been disrupted by the internet and is an expert in dealing with the impact of digital disruption'
+    description1: 'Gerrie is a seasoned professional with 25 years of experience in industries.',
+    description2: 'Gerrie is a versatile professional with a background in music, television, and civil service. He has over 25 years of experience in industries that have been disrupted by the internet',
 
   },
   {
     profileimage: 'images/avery.png',
     name: 'Avery Akkineni',
-    description1: 'Avery Akkineni: President of Vayner NFT, Former Head of VaynerMedia APAC and Managing Director.',
-    description2: 'Avery serves as the President of Vayner NFT. She leads the company mission to build long-term strategic NFT projects for the world leading intellectual property owners serving brands, celebrities and athletes.',
+    description1: 'President of Vayner NFT, Former Head of VaynerMedia.',
+    description2: 'Avery serves as the President of Vayner NFT. She leads the company mission to build long-term strategic NFT projects for the world leading intellectual property owners.',
   },
 ];
 
