@@ -36,7 +36,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Personal information and previous project works]**
+- **[Facilitate registration and ticket sales]**
 - **[Responsive]**
 - **[Graphic user interface friendly]**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
